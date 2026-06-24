@@ -1,27 +1,26 @@
 # TechSphere Summit 2026
 
-A multi-page technology conference website built using HTML5.
-
-## Project Overview
-
-TechSphere Summit 2026 is a fictional global technology conference website designed to showcase modern innovations in Artificial Intelligence, Robotics, Cybersecurity, Cloud Computing, and Entrepreneurship.
-
-This project was built as part of my web development learning journey to strengthen my understanding of HTML fundamentals and website structure.
+A multi-page responsive conference website built using HTML and CSS.
 
 ## Features
 
-- Multi-page website navigation
-- Semantic HTML5 elements
-- Speaker profiles
-- Event schedule tables
-- Workshop information
-- Image gallery
-- Video and audio integration
-- Registration form
-- FAQ section
-- Contact page
+- Responsive Design
+- Modern UI with Gradient Theme
+- Speaker Profiles
+- Event Schedule
+- Workshop Details
+- Photo Gallery
+- Registration Form
+- FAQ Section
+- Contact Page
+- Sticky Navigation Bar
 
-## Pages Included
+## Technologies Used
+
+- HTML5
+- CSS3
+
+## Pages
 
 - Home
 - About
@@ -33,26 +32,11 @@ This project was built as part of my web development learning journey to strengt
 - FAQ
 - Contact
 
-## Technologies Used
+## Live Website
 
-- HTML5
-
-## Learning Outcomes
-
-Through this project, I learned:
-
-- Website structure and navigation
-- Semantic HTML tags
-- Forms and input elements
-- Tables and lists
-- Image, audio, and video embedding
-- Internal and external linking
-- Multi-page website development
+https://jyotiraditya92.github.io/TechSphere-Summit-2026/
 
 ## Author
 
 Jyotiraditya Pandey
-
-Built as part of my web development learning journey.
-
-
+B.Tech CSE, JIIT Noida
